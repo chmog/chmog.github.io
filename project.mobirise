@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 24,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/4126-128x156.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -53,14 +53,14 @@
           "_name": "menu",
           "_anchor": "menu-c",
           "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -96,23 +96,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-m",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -146,28 +146,28 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "13",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#d14841",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#d14841",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/zaPo86cfmDQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": "0.7",
             "overlayColor": "#e25041",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -213,23 +213,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-l",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -248,27 +248,27 @@
           },
           "_anchor": "content4-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": "4",
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -409,23 +409,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-k",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -438,9 +438,9 @@
           "_name": "image1",
           "_anchor": "image1-e",
           "_params": {
+            "showText": true,
             "outside": true,
-            "bgColor": "#252525",
-            "showText": true
+            "bgColor": "#252525"
           },
           "media": {
             "image": {
@@ -470,13 +470,13 @@
             "paddingTop": 3,
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<b>Контакты:<br></b>cmogillar (at) gmail.com<br><br><br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
@@ -524,7 +524,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-i",
-          "text": "<h3>Краткое резюме:</h3><p>1993-1999 – Руководящие должности в российских компаниях: директор по развитию, зам. ген.директора по экономике, финансовый директор. Выполненные проекты по реструктуризации и развитию бизнеса, рынков, разработка стратегии, проекты по антикризисному управлению, постановке финансового и управленческого учета, документооборот и регламентация, работа с персоналом по внедрению;</p><p>2001 -2004 - Управленческий (западный) консалтинг, реорганизация предприятий (Россия+СНГ) с численностью 2к+, реинжиниринг бизнес-процессов, стратегическое управление, бизнес-планирование, организационное проектирование, системы управления и контроля, финансовый менеджмент, проекты по развитию компетенций персонала, внутр.коммуникации, внедрение и управление процессом изменений;</p><p>2005 - 2011 - Предпринимательство: Организация, подбор программ доп. образования (тренинги и доп.образование) для коммерческих организаций и частных лиц под требуемые задачи, ведение и внедрение изменений, ведение онлайн-тренингов, подбор зарубежных программ обучения, консультирование;</p><p>2001 - 2012 – Проекты по общественной дипломатии и межкультурным связям, Посольство Великобритании. Развитие деятельности клуба британских выпускников в России - организация приемов и мероприятий, внутренние и внешние коммуникации, развитие репутации и нетворкинга, связи в партнерами и внешними контрагентами;</p><p>2010 -2014 - Развитие отраслевого объединения участников рынка цифровых технологий и Новых медиа Social Media Club Moscow - управление, стратегия, подготовка мероприятий, ведение страницы сообщества, подготовка экспертных материалов, партнерства.</p><p>2011 - наст.время – Продвижение, брендинг, PR, коммуникации, контент. Рекламное/коммуник агентство \"Коммьюника\", собственник;</p><p>2015 - наст вр. – Технологическое предпринимательство, Эдтех (образовательные траектории), основатель. Разработка технологических проектов, стартапов от нуля до запуска: оценка идеи, рыночный анализ, бизнес модель. позиционированеи. МВП, развитие продукта, внедрение, маркетинг и продвижение.</p><p><span style=\"color: rgb(37, 37, 37); font-family: inherit; font-size: 19px; font-weight: bold; letter-spacing: 1px; line-height: 1.3em;\"><br></span></p><p><span style=\"color: rgb(37, 37, 37); font-family: inherit; font-size: 19px; font-weight: bold; letter-spacing: 1px; line-height: 1.3em;\">Образование:</span><br></p><ul><li>Санкт-Петербургский Государственный Университет, Магистр, Экономика</li><li>ИМИСП – Международный институт менеджмента в СПб, Менеджмент&nbsp;</li><li>Бизнес-школа Университета Уолверхэмптона (Великобритания), CiM, менеджмент</li><li>Академия Менеджмента и Рынка (АМИР, г.Москва), предпринимательство и управление МСП</li><li>Институт Основателей Кремниевой долины (США), создание технологических стартапов: от идеи до развития продукта и популяризации</li></ul><p><br></p>"
+          "text": "<h3>Краткое резюме:</h3><p>1993-1999 – Руководящие должности в российских компаниях: директор по развитию, зам. ген.директора по экономике, финансовый директор. Выполненные проекты по реструктуризации и развитию бизнеса, рынков, разработка стратегии, проекты по антикризисному управлению, постановке финансового и управленческого учета, документооборот и регламентация, работа с персоналом по внедрению;</p><p>2001 -2004 - Управленческий (западный) консалтинг, реорганизация предприятий (Россия+СНГ) с численностью 2к+, реинжиниринг бизнес-процессов, стратегическое управление, бизнес-планирование, организационное проектирование, системы управления и контроля, финансовый менеджмент, проекты по развитию компетенций персонала, внутр.коммуникации, внедрение и управление процессом изменений;</p><p>2005 - 2011 - Предпринимательство: Организация, подбор программ доп. образования (тренинги и доп.образование) для коммерческих организаций и частных лиц под требуемые задачи, ведение и внедрение изменений, ведение онлайн-тренингов, подбор зарубежных программ обучения, консультирование;</p><p>2001 - 2012 – Проекты по общественной дипломатии и межкультурным связям, Посольство Великобритании. Развитие деятельности клуба британских выпускников в России - организация приемов и мероприятий, внутренние и внешние коммуникации, развитие репутации и нетворкинга, связи в партнерами и внешними контрагентами;</p><p>2010 -2014 - Развитие отраслевого объединения участников рынка цифровых технологий и Новых медиа Social Media Club Moscow - управление, стратегия, подготовка мероприятий, ведение страницы сообщества, подготовка экспертных материалов, партнерства.</p><p>2011 - наст.время – Продвижение, брендинг, PR, коммуникации, контент. Рекламное/коммуник агентство \"Коммьюника\", собственник;</p><p>2015 - наст вр. – Технологическое предпринимательство, Эдтех (образовательные траектории), основатель. Разработка технологических проектов, стартапов от нуля до запуска: оценка идеи, рыночный анализ, бизнес модель. позиционироване, МВП, развитие продукта, внедрение, маркетинг и продвижение.</p><p><span style=\"color: rgb(37, 37, 37); font-family: inherit; font-size: 19px; font-weight: bold; letter-spacing: 1px; line-height: 1.3em;\"><br></span></p><p><span style=\"color: rgb(37, 37, 37); font-family: inherit; font-size: 19px; font-weight: bold; letter-spacing: 1px; line-height: 1.3em;\">Образование:</span><br></p><ul><li>Санкт-Петербургский Государственный Университет, Магистр, Экономика</li><li>ИМИСП – Международный институт менеджмента в СПб, Менеджмент&nbsp;</li><li>Бизнес-школа Университета Уолверхэмптона (Великобритания), CiM, менеджмент</li><li>Академия Менеджмента и Рынка (АМИР, г.Москва), предпринимательство и управление МСП</li><li>Институт Основателей Кремниевой долины (США), создание технологических стартапов: от идеи до развития продукта и популяризации</li></ul><p><br></p>"
         },
         {
           "_inherit": "msg-box3",
@@ -547,26 +547,26 @@
           "_name": "content5",
           "_anchor": "content5-h",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": 0.2
           },
           "title": "Некоторые выполненные работы:",
           "meta": "By John Smith posted July 30, 2015",
@@ -597,14 +597,14 @@
           "_name": "menu",
           "_anchor": "menu-c",
           "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -635,13 +635,13 @@
             "paddingTop": 3,
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<b>Контакты:<br></b>cmogillar (at) gmail.com<br><br><br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
