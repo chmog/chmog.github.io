@@ -124,27 +124,6 @@
 #menu-s .mbr-brand__name a {
   font-size: 24px;
 }
-#msg-box3-10 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-10 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#menu-u .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-u .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-u .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-u .mbr-brand__name a {
-  font-size: 24px;
-}
 #menu-w .mbr-brand__name {
   font-size: 16px;
 }
@@ -173,5 +152,26 @@
   color: #ffffff;
 }
 #menu-y .mbr-brand__name a {
+  font-size: 24px;
+}
+#msg-box3-10 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-10 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-u .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-u .mbr-brand__name a {
   font-size: 24px;
 }

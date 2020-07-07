@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Кристина Могиллар портфолио",
-    "currentPage": "index.html",
+    "currentPage": "communitymanagement.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20,7 +20,13 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -1015,158 +1021,6 @@
         }
       ]
     },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Развитие сообществ",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Кто я и почему говорю о сообществах?",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p><b>— Более 20 лет занимаюсь темой сообществ и объединяю людей.\n</b></p><p>\n</p><p>— Первое сообщество создала в эпоху до Интернет, связав в информационную сеть 80+ секций клубов ДОСААФ с охватом всей территории Советского Союза.\n</p><p>\n</p><p><b>— 1999 - создала первую в России Ассоциацию выпускников Президентской программы подготовки управленческих кадров (Санкт-Петербург)\n</b></p><p>\n</p><p>— 2001 - 2012 - руководитель и идейный вдохновитель Клуба выпускников британских вузов в России при посольстве Великобритании, занималась развитием клуба, проектами общественной дипломатии и взаимодействием с отделениями по работе с выпускниками ведущих британских вузов.\n</p><p>\n</p><p><b>— 2011-2012 - инициатор объединения клубов выпускников ведущих бизнес школ Европы и США.\n</b></p><p>\n</p><p>— с 2010г. - евангелист Клуба Социальных медиа Москвы -одно из первых объединений в зарождающейся цифровой экономике, объединившей представителей медиа, интернет-бизнеса и общественных институтов. Участники сообщества впоследствии стали авторами ведущих проектов в SMM, цифровых медиа.\n</p><p>\n</p><p><b>— 2011-2015 - создала несколько коммерческих и отраслевых клубов под заказ.\n</b></p><p>\n</p><p>— Постоянно имела дело с изменениями (организационными, личными), предприниматель (доп. образование для взрослых, продвижение, социальные медиа), занимала руководящие позиции в бизнесе, работала в управленческом консалтинге, технологическое предпринимательство, российский и международный опыт работы и образование, выпускница инкубатора Кремниевой долины. Консалтинг по построению коммуникаций и лояльности.\n</p><p>\n</p><p><b>— Более 10 лет занималась сообществами параллельно с основной работой, за свой счет. потому что не могла этого не делать.\n</b></p><p>\n</p><p>Сообщество - уникальная экосистема, которая позволяет на минимуме ресурсов достигать больших результатов, но она имеет специфику управления.\n</p><p>\n</p><p>— За 20+ лет практики накоплено множество приемов как создавать, развивать сообщество и получать невероятные результаты, которые невозможно достичь другим путем:\n</p><p>\n</p><p><b>Круг друзей, единомышленников с высокой лояльностью и готовых помочь, поддержать. дать обратную связь, готовая покупать и работать вместе с вами, коллективный ресурс и пространство для роста всех участников.\n</b></p><p>\n</p><p><b>Для компаний в ближайшем будущем сообщество и социальные коммуникации станут определяющими для успешной работы. А страна, мир станут сетью связанных между собой сообществ, которые помогут реализовываться каждому.\n</b></p><p>\n</p><p>Я готова делиться своим опытом и знаниями. Все, чем делюсь — опыт из практики.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts3-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Запросить консультацию</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-10"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "24px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Кристина Могиллар</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Главная</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">Опыт</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-5\">Связаться</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "_anchor": "menu-u"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "text1": "<b>Контакты:<br></b>cmogillar (at) gmail.com<br><br><br><br>",
-          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "cmogillar@gmail.com",
-            "alerts": {
-              "success": "Ваше сообщение отправлено!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "ФИО*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Название проекта/компании"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Отправить</a>",
-          "_anchor": "contacts3-v"
-        }
-      ]
-    },
     "page6.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
@@ -1386,6 +1240,158 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Отправить</a>",
           "_anchor": "contacts3-z"
+        }
+      ]
+    },
+    "communitymanagement.html": {
+      "settings": {
+        "meta_descr": "Создание и развитие сообществ",
+        "title": "Развитие сообществ",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Кто я и почему говорю о сообществах?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br></p><p><b>— Более 20 лет занимаюсь темой сообществ и объединяю людей.\n</b></p><p>\n</p><p>— Первое сообщество создала в эпоху до Интернет, связав в информационную сеть 80+ секций клубов ДОСААФ с охватом всей территории Советского Союза.\n</p><p>\n</p><p><b>— 1999 - создала первую в России Ассоциацию выпускников Президентской программы подготовки управленческих кадров (Санкт-Петербург)\n</b></p><p>\n</p><p>— 2001 - 2012 - руководитель и идейный вдохновитель Клуба выпускников британских вузов в России при посольстве Великобритании, занималась развитием клуба, проектами общественной дипломатии и взаимодействием с отделениями по работе с выпускниками ведущих британских вузов.\n</p><p>\n</p><p><b>— 2011-2012 - инициатор объединения клубов выпускников ведущих бизнес школ Европы и США.\n</b></p><p>\n</p><p>— с 2010г. - евангелист Клуба Социальных медиа Москвы -одно из первых объединений в зарождающейся цифровой экономике, объединившей представителей медиа, интернет-бизнеса и общественных институтов. Участники сообщества впоследствии стали авторами ведущих проектов в SMM, цифровых медиа.\n</p><p>\n</p><p><b>— 2011-2015 - создала несколько коммерческих и отраслевых клубов под заказ.\n</b></p><p>\n</p><p>— Постоянно имела дело с изменениями (организационными, личными), предприниматель (доп. образование для взрослых, продвижение, социальные медиа), занимала руководящие позиции в бизнесе, работала в управленческом консалтинге, технологическое предпринимательство, российский и международный опыт работы и образование, выпускница инкубатора Кремниевой долины. Консалтинг по построению коммуникаций и лояльности.\n</p><p>\n</p><p><b>— Более 10 лет занималась сообществами параллельно с основной работой, за свой счет. потому что не могла этого не делать.\n</b></p><p>\n</p><p>Сообщество - уникальная экосистема, которая позволяет на минимуме ресурсов достигать больших результатов, но она имеет специфику управления.\n</p><p>\n</p><p>— За 20+ лет практики накоплено множество приемов как создавать, развивать сообщество и получать невероятные результаты, которые невозможно достичь другим путем:\n</p><p>\n</p><p><b>Круг друзей, единомышленников с высокой лояльностью и готовых помочь, поддержать. дать обратную связь, готовая покупать и работать вместе с вами, коллективный ресурс и пространство для роста всех участников.\n</b></p><p>\n</p><p><b>Для компаний в ближайшем будущем сообщество и социальные коммуникации станут определяющими для успешной работы. А страна, мир станут сетью связанных между собой сообществ, которые помогут реализовываться каждому.\n</b></p><p>\n</p><p>Я готова делиться своим опытом и знаниями. Все, чем делюсь — опыт из практики.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts3-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Запросить консультацию</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-10"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Кристина Могиллар</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Главная</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">Опыт</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-5\">Связаться</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-u"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<b>Контакты:<br></b>cmogillar (at) gmail.com<br><br><br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cmogillar@gmail.com",
+            "alerts": {
+              "success": "Ваше сообщение отправлено!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Название проекта/компании"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Отправить</a>",
+          "_anchor": "contacts3-v"
         }
       ]
     }
