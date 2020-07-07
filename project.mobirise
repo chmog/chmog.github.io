@@ -477,7 +477,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -643,7 +643,7 @@
           "_name": "contacts3",
           "_anchor": "contacts3-a",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -753,7 +753,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -864,7 +864,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -975,7 +975,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1086,7 +1086,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1197,7 +1197,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1349,7 +1349,7 @@
           ],
           "_name": "contacts3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
