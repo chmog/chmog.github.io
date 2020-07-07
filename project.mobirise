@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Кристина Могиллар портфолио",
-    "currentPage": "communitymanagement.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -206,7 +206,7 @@
           "title": "Кристина Могиллар",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Бизнес-драйвер, менеджер перемен, эксперт в области сообществ, организации и развития бизнеса, оптимизации бизнес-процессов, управления изменениями, запуска стартапов, продвижения и бизнес-коммуникаций, преподаватель курса \"Жизненная навигация\".</p><p>Технологии, интернет, сообщества, новые образовательные технологии и технологическое предпринимательство.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Экспериза по сообществам</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Экспертиза по сообществам</a>"
         },
         {
           "_styles": {
